@@ -29,7 +29,7 @@ a {
 /* ******************* NAVBAR ******************* */
 nav {
   overflow: hidden;
-  background-color:red;
+  background-color: yellow;
   position: fixed;
   width: 100%;
   opacity: 0.9;
@@ -43,7 +43,6 @@ header li a {
   display: block;
   text-align: center;
   padding: 18px 16px;
-  
 }
 #logo {
   font-family: 'Dancing Script', cursive;
@@ -51,7 +50,7 @@ header li a {
   float: left;
 }
 #logo a:hover{
-  background: blue;
+  background: green;
 }
 .acceuil a hover{
   background: yellow;
